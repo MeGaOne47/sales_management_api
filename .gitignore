@@ -1,5 +1,5 @@
 # compiled output
-/dist
+# /dist
 /node_modules
 /build
 
@@ -61,3 +61,7 @@ package-lock.json
 # Optional: nếu dùng Yarn, có thể ignore yarn.lock hoặc pnpm-lock.yaml nếu dùng pnpm
 # yarn.lock
 # pnpm-lock.yaml
+
+.vercel
+
+.vercel
